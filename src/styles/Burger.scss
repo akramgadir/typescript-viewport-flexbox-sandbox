@@ -1,0 +1,8 @@
+.burger-button {
+    background-color: var(--secondary-light);
+}
+
+.burger-button:hover {
+    background-color: var(--secondary-dark);
+    cursor: pointer;
+}

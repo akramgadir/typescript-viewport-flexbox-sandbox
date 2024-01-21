@@ -1,0 +1,19 @@
+.App {
+  height: 100vh;
+  display: flex;
+  font-family: 'Calibri';
+  overflow-x: hidden;
+}
+
+
+:root {
+  --primary-color: rgb(66, 64, 162); 
+  --primary-light: rgb(186, 193, 228); 
+  --primary-dark:  rgb(46, 31, 85); 
+  --secondary-color: #d4af37;
+  --secondary-light: #c9b877; 
+  --secondary-dark: #b28a2e;
+  --spacing-unit: 8px;
+  background-color: var(--primary-light);
+
+}
